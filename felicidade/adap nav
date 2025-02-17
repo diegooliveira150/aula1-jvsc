@@ -12,6 +12,7 @@
 
 <body>
     <header>
+        <img src="/img/images.png" alt="Logo spotify">
         <nav>
             <button><a href="">categorias</a></button>
             <button><a href="">compras</a></button>
