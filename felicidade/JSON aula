@@ -15,7 +15,7 @@ function readFile(response, file) {
 //Função callback para o servidor HTTP 
 function callback(resquest, response) {
     //Cabeçalho (header) com tipo da respesta + UTF-8 como o charset
-    response.writeHead(200, { "Context-type": "application/json; charset=utf-8" })
+    response.writeHead(200, { "Content-type": "application/json; charset=utf-8" })
     //Faz o parser da URL separando caminho (path) 
     var parts = url.parse(resquest.url);
     var path = parts.path;
