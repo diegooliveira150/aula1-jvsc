@@ -1,0 +1,30 @@
+[
+    {
+        "pedido":"Camisa Palmeiras Puma I 25/26 Jogador, Tamanho M, Sem personalização.",
+        "idCliente":"1",
+        "nomeCliente":"Diego Oliveira Camargo"       
+    },
+
+    {
+        "pedido":"Camisa Palmeiras Puma II 25/26 Jogador, Tamanho M, Personalizada.",
+        "idCliente":"2",
+        "nome":"Julia Floriano Vernili"
+    },
+
+    {
+        "pedido":"Camisa Palmeiras Puma I Goleiro 25/26 Jogador, Tamanho P, Sem personalização.",
+        "idCliente":"3",
+        "nome":"Lorena Oliveira Camargo"
+    },
+
+    {
+        "pedido":"Camisa Goleiro II Palmeiras Puma 24/25 Jogador, Tamanho G, Personalizada",
+        "idCliente":"4",
+        "nome":"Elaine"        
+    },
+
+    {
+        "pedido":"Camisa Palmeiras Puma III 24/25 Jogador, Tamanho M, Personalizada"
+    }
+
+]
